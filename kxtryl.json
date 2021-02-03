@@ -1,7 +1,8 @@
 {
- "Students":{
- "Name" : "Khalid Mola",
- "Age" : 21,
- "Name" : "Malik Mola",
- "Age" : 23}
+ "url":"Google.com",
+ "port":1234,
+ "address":"hhghdghasdghasgdhasg",
+ "param1":"--t=jkfdjsdkf",
+ "param2":"--a=dcsdhc",
+ "param3":"--d=cwsdcjhdsj"
 }
